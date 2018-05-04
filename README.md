@@ -8,4 +8,4 @@ Kaiwen Huang, Yunfan Jiang, Yanhao Wang, Jared Campbell
 JSP, HTML&CSS, bootstrap, Javascript
 
 [to get a get a view of the project](storyboards 2.0.pdf)
-[to look at the data model we build](Normalization.docx)
+[to look at the data model we build](Normalization.pdf)
